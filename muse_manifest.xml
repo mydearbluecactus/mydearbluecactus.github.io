@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webbbbb.github.io" resolutions="1x" timestamp="1579180688461">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webbbbb.github.io" resolutions="1x" timestamp="1579180931001">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-__.css" crc="3768985578" ref="index"/>
