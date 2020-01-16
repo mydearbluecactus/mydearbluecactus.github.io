@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webbbbb.github.io" resolutions="1x" timestamp="1579180688461">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="3768985578" ref="index"/>
+    <file name="school.css" crc="4144170588" ref="school"/>
+    <file name="pics.css" crc="3894805379" ref="pics"/>
+    <file name="index.css" crc="416889374" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pixelsplitter-bold.ttf" crc="483018905" seo="true" mt="1061680242000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pics:school"/>
+    <file name="museutils.js" crc="3939489907" ref="index:pics:school"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pics:school"/>
+    <file name="museconfig.js" crc="128606099" ref="index:pics:school"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:pics:school"/>
+    <file name="require.js" crc="4177726516" ref="index:pics:school"/>
+  </folder>
+  <folder name="images">
+    <file name="double-smiley.gif" crc="3976078553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixel-cactus-png-6.png" crc="3957625624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s__1679414.jpg" crc="336101898" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="s__1679413.jpg" crc="94529700" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="u364-4.png" crc="4095468665" ref="pics"/>
+    <file name="s__1679419.jpg" crc="163199589" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="s__1679416.jpg" crc="4205106941" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="u406-4.png" crc="292678285" ref="pics"/>
+    <file name="s__1679408.jpg" crc="4186436314" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="s__1679406.jpg" crc="198726096" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="u457-4.png" crc="37063397" ref="pics"/>
+    <file name="s__1679409.jpg" crc="4252763360" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="s__1679410.jpg" crc="4126181282" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="s__1679403.jpg" crc="424360236" seo="true" ref="school">
+      <caption webpage="school" alt=""/>
+    </file>
+    <file name="s__1679405.jpg" crc="214931833" seo="true" ref="school">
+      <caption webpage="school" alt=""/>
+    </file>
+    <file name="s__1679423.jpg" crc="135911285" seo="true" ref="school">
+      <caption webpage="school" alt=""/>
+    </file>
+    <file name="s__1679404.jpg" crc="21860826" seo="true" ref="school">
+      <caption webpage="school" alt=""/>
+    </file>
+    <file name="s__1679402.jpg" crc="3936875923" seo="true" ref="school">
+      <caption webpage="school" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3923892045" seo="true" mt="1579112967258" redirect="true"/>
+  <file name="pics.html" crc="3879024427" seo="true" mt="1579178259703" redirect="true"/>
+  <file name="school.html" crc="4183274175" seo="true" mt="1579178700168" redirect="true"/>
+</manifest>
